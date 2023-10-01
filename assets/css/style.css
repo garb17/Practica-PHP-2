@@ -1,0 +1,64 @@
+body{
+    background-color: #accec0 !important;
+}
+
+table{
+    border: 1px solid black !important;
+    border-radius: 3%;
+}
+
+td, th{
+    text-align: center !important;
+}
+
+.box{
+    border:  5px solid #605951;
+}
+
+h1{
+    margin-top: 2% !important;
+    margin-bottom: 6% !important;
+}
+
+
+.text-center{
+    text-align: center;
+}
+
+.margen{
+    margin: 2%;
+}
+
+.margen-tabla{
+    margin: 0 2% 1%;
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none !important;
+    color: black !important;
+    font-size: 12pt;
+
+}
+
+.margen-boton{
+    padding: 1% !important;
+    background-color: #accec0 !important;
+    border: 1px solid black !important;
+}
+
+.centar-botones{
+    text-align: center;
+}
+
+.negrilla{
+    font-weight: bold !important;
+}
+
+.margen-resultados{
+    padding: 0 20% !important;
+}
